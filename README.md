@@ -1,1 +1,1 @@
-# GameRLFed:R
+# GameRLFed
